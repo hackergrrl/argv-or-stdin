@@ -1,0 +1,20 @@
+{
+  "name": "argv-or-stdin",
+  "version": "0.0.0",
+  "description": "use the 1st argument, or, if none is present, standard input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "argument",
+    "argv",
+    "stdin",
+    "standard input"
+  ],
+  "author": "noffle <stephen.whitmore@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "concat-stream": "^1.5.2"
+  }
+}
