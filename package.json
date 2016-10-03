@@ -1,6 +1,6 @@
 {
   "name": "argv-or-stdin",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "use the 1st argument, or, if none is present, standard input",
   "main": "index.js",
   "scripts": {
